@@ -19,4 +19,4 @@ Este é um gerenciador de tarefas simples desenvolvido em Python, usando a bibli
 ## Como Rodar o Código:
 1. Clone o repositório.
 2. Instale o Python 3 e a biblioteca Tkinter (caso não tenha).
-3. Execute o script `app.py` com `python app.py`.
+3. Execute o codigo `gerenciador de tarefa.py` com `python`.
